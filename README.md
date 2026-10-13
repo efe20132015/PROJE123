@@ -1,2 +1,3 @@
 # PROJE123
-bakalım ortaya ne  çıkıcak
+## Projem için fikir:
+> benim aklımda çeşitli sorulardan sonra sana kişiliğin söyleyen bi test çeren site
